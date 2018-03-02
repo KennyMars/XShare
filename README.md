@@ -123,17 +123,17 @@ XShareCoin不同于ICO，不是必须与比特币等主流数字货币打通兑�
 
 因此，XShareChain理论上可以发行5200亿美元估值规模的XShareCoin数量。考虑到市场将上不只存在一个共享链（人们也不期望一个垄断链存在导致中心化），按10%市场占有率做预估，发行量为：
 
-> 5000万枚 XshareCoin = 500亿美元<br>
-> 1枚XshareCoin = 1000美元
+> 5亿枚 XshareCoin = 500亿美元<br>
+> 1枚XshareCoin = 100美元
 
 XShareCoin的价值支撑在于全球网民已上链闲置物品的价值，因此，随着上链用户增加，上链物品增多，XShareCoin初期会有增值预期。随着新物品不断上链，旧物品下链，新陈代谢，XShareCoin价值逐渐趋于稳定。
 
 设美元的价值相对稳定，其中x为已上链共享物品数量，则以美元为对价物计算，XShareCoin（单位：$）的价值f(x)为：
 
 ```math
-0<f(x)<1000
+0<f(x)<100
 
-lim_{x \to \infty}f(x) = 1000
+lim_{x \to \infty}f(x) = 100
 ```
 
 
