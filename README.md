@@ -109,7 +109,7 @@ XShareChain是基于区块链技术打造的全新的公链，用来解决全球
 ```javascript
 {
     "name":"xsharecoin",
-    "id":"88998888900",//每1枚XShareCoin都有编号，可拆分
+    "id":"88998888900",//每枚XShareCoin都有编号，可拆分
     "value":"0.16875",//面额
     "owner":"",//当前拥有者签名
     "lastowner":""//上一拥有者签名
@@ -126,9 +126,9 @@ XShareCoin不同于ICO，不是必须与比特币等主流数字货币打通兑�
 > 5000万枚 XshareCoin = 500亿美元<br>
 > 1枚XshareCoin = 1000美元
 
-XShareCoin的价值支撑在于全球网民已上链闲置物品的价值，因此，随着上链用户增加，上链物品增多，XShareCoin初期会有增值预期。随和新物品不断上链，旧物品下链，新陈代谢，XShareCoin价值逐渐趋于稳定。
+XShareCoin的价值支撑在于全球网民已上链闲置物品的价值，因此，随着上链用户增加，上链物品增多，XShareCoin初期会有增值预期。随着新物品不断上链，旧物品下链，新陈代谢，XShareCoin价值逐渐趋于稳定。
 
-综上，XShareCoin（单位：$）的价值f(x)为，其中x为已上链共享物品数量：
+设美元的价值相对稳定，其中x为已上链共享物品数量，则以美元为对价物计算，XShareCoin（单位：$）的价值f(x)为：
 
 ```math
 0<f(x)<1000
