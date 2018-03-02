@@ -150,8 +150,8 @@ lim_{x \to \infty}f(x) = 100
 * 随着时间推移，该闲置物品的价值会自动逐渐降低（折旧），也是依靠XShareMatrix计算然后随机挑选51%用户投票确定价值，体现在以XShareCoin的标价降低；
 * 如果某个网民下链（回收）该物品，XShareChain会从该网民的钱包里面扣除等价的XShareCoin，然后销毁；
 * 没有XShareCoin的用户如果要想在XShareChain上与其他人交易，可以用法币购买某些用户的XShareCoin然后交易；
-* 任何时候，XShareChain里流通的XShareCoin总量都不超过5000万枚；
-* 当流通数量达到5000万枚后，XShareChain只依靠XShareMatrix来估价，上链将无法再得到XShareCoin；
+* 任何时候，XShareChain里流通的XShareCoin总量都不超过5亿枚；
+* 当流通数量达到5亿枚后，XShareChain只依靠XShareMatrix来估价，上链将无法再得到XShareCoin；
 
 
 
