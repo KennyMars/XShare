@@ -143,12 +143,12 @@ lim_{x \to \infty}f(x) = 1000
 
 * 当某个用户在XShareChain上链（成功提交）一个闲置物品，会获得n个XShareCoin的奖励；
 * 奖励的数量由智能算法（名叫“XShareMatrix”）自行确定，不受任何人影响；
-* XShareMatrix依靠图像识别、语义分析、以及大数据等技术实现，会确定该物品的一个价值；
+* XShareMatrix依靠图像识别、语义分析、以及大数据等技术，并结合时间维度、随机因子来综合计算确定该物品的价值；
 * XShareMatrix是开源的，由XShareChain用户参与共建，并由自治委员会授权我们实现；
 * XShareMatrix运行在全体用户的手机里，XShareChain随机抽取51%的用户投票决定价格；
 * 投票完成之后，XShareChain发放相当的XShareCoin；
 * 随着时间推移，该闲置物品的价值会自动逐渐降低（折旧），也是依靠XShareMatrix计算然后随机挑选51%用户投票确定价值，体现在以XShareCoin的标价降低；
-* 如果某个网民下链（回收）该物品，会从该网民的钱包里面扣除等价的XShareCoin；
+* 如果某个网民下链（回收）该物品，XShareChain会从该网民的钱包里面扣除等价的XShareCoin，然后销毁；
 * 没有XShareCoin的用户如果要想在XShareChain上与其他人交易，可以用法币购买某些用户的XShareCoin然后交易；
 
 
