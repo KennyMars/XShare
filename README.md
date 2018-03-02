@@ -103,7 +103,19 @@ XShareChain是基于区块链技术打造的全新的公链，用来解决全球
 ### 2.4 XShareChain核心技术特性
 #### 2.4.1 保值货币XShareCoin
 众所周知，一个经济体内**为了高效地实现价值交换，必须有货币充当媒介。**
-为方便用户在XShareChain上交易，XShareChain会基于全球闲置物品价值总量发行加密数字代币，名字叫XShareCoin。
+为方便用户在XShareChain上交易，XShareChain会基于全球闲置物品价值总量发行加密数字代币，名字叫XShareCoin，API如下：
+
+
+```javascript
+{
+    "name":"xsharecoin",
+    "id":"88998888900",//每1枚XShareCoin都有自己的编号
+    "value":"0.16875",//面额
+    "owner":"",//当前拥有者签名
+    "lastowner":""//上一拥有者签名
+}
+```
+
 
 XShareCoin不同于ICO，不是必须与比特币等主流数字货币打通兑换关系，也不是一定要上交易所参与交易。虽然技术上ICO没有障碍，Kenny认为中国国情下，不用ICO也可以做得很好。
 
